@@ -30,11 +30,11 @@
         "test" : "tap test/*.js"
     },
     "dependencies" : {
-        "parsley" : "0.0.x",
-        "morestreams" : "0.0.2"
+        "parsley" : "~0.1.0",
+        "morestreams" : "0.1.1"
     },
     "devDependencies" : {
-        "tap" : "0.0.x",
+        "tap" : "~8.0.0",
         "lazy" : "1.0.x",
         "websocket-server" : "1.4.x",
         "websocket-client" : "1.0.x"
